@@ -1,0 +1,13 @@
+body{
+    background-color: antiquewhite; 
+}
+
+#camera{
+    border-style:double;
+    border-color: blueviolet;
+}
+
+#result{
+    border-style: dotted;
+    border-color:cadetblue;
+}
